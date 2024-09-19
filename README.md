@@ -1,8 +1,12 @@
-# React + Vite
+# Kanban Board Functionality
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The application offer three distinct ways to group the data:
 
-Currently, two official plugins are available:
+1. **By Status**: Group tickets based on their current status.
+2. **By User**: Arrange tickets according to the assigned user.
+3. **By Priority**: Group tickets based on their priority level.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Users should also be able to sort the displayed tickets in two ways:
+
+1. **Priority**: Arrange tickets in descending order of priority.
+2. **Title**: Sort tickets in ascending order based on their title.
