@@ -1,7 +1,7 @@
 import Add from '../assets/add.svg';
 import Dot from '../assets/3 dot menu.svg'
 import low from '../assets/Img - Low Priority.svg'
-import no from '../assets/No-Priority.svg'
+import no from '../assets/No-priority.svg'
 import high from '../assets/Img - High Priority.svg'
 import medium from '../assets/Img - Medium Priority.svg'
 import urgent from '../assets/SVG - Urgent Priority colour.svg'
